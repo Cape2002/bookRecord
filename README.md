@@ -1,4 +1,4 @@
-youtube: https://www.youtube.com/playlist?list=PL7zl8TDRnbumnn-7LPxE017B9Ir3kipAB
+
 
 ## Book Record Managaemnt System
 
