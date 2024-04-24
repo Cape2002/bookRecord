@@ -1,0 +1,26 @@
+{
+  "name": "bookrecord",
+  "version": "1.0.0",
+  "description": "youtube: https://www.youtube.com/playlist?list=PL7zl8TDRnbumnn-7LPxE017B9Ir3kipAB",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev":"nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cape2002/bookRecord.git"
+  },
+  "author": "Ssv",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cape2002/bookRecord/issues"
+  },
+  "homepage": "https://github.com/Cape2002/bookRecord#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
